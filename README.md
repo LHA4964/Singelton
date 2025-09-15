@@ -1,4 +1,4 @@
-# Singelton
+# Singleton
 
 ## Características
 
