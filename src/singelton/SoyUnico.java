@@ -1,4 +1,4 @@
-package singelton;
+package singleton;
 
 // En esta clase encontramos la caracteristica de Encapsulación, porque hay ocultación de atributos y restringe el acceso directto al String nombre
 
